@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Md Tanvirul Alam"
-  # avatar           : "profile.png"
+  avatar           : "profile.png"
   bio              : "Deep Learning Engineer"
   location         : "Dhaka, Bangladesh"
   employer         :
