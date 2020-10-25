@@ -3,7 +3,7 @@ title: "Punctuation Restoration using Transformer Models for High-and Low-Resour
 collection: publications
 permalink: /publication/punctuation-restoration
 excerpt: We used different Transformer models for the punctuation restoration task on a high (English) and low (resource) language. We also proposed a novel augmentation strategy tailored for improving performance on ASR transcriptions.
-date: 2020
+date: 2020-11-17
 venue: 'Proceedings of the 6th Workshop on Noisy User-generated Text (W-NUT 2020)@EMNLP'  
 paperurl:   'http://noisy-text.github.io/2020/pdf/2020.d200-1.18.pdf'
 citation: 'T. Alam, A. Khan, and F. Alam, “Punctuation Restoration using Transformer Models for High-and Low-Resource Languages,” in Proceedings of the 6th Workshop on Noisy User-generated Text (W-NUT2020)@EMNLP. 2020.'
