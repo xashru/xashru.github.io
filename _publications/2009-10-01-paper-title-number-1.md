@@ -2,7 +2,7 @@
 title: "Paper Title Number 1"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'Abstract. Voice activity detection (VAD) is an important prepossessing step in many speech related applications. Convolutional neural networks (CNN) are widely used for different audio classification tasks and have been adopted successfully for this. In this work, we propose a lightweight CNN architecture for real time voice activity detection. We use strong data augmentation and regularization for improving the performance of the model. Using knowledge distillation approach, we transfer knowledge from a larger CNN model which leads to better generalization ability and robust performance of the CNN architecture in noisy conditions. The resulting network obtains 62.6% relative improvements in EER compared to a deep feedforward neural network (DNN) of comparable parameter count on a noisy test dataset.'
 date: 2009-10-01
 venue: 'Journal 1'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
