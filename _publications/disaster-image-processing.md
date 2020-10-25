@@ -3,7 +3,7 @@ title: "Social Media Image Classification Benchmarks for Various Disaster Respon
 collection: publications
 permalink: /publication/disaster-image-processing
 excerpt: 'This work consolidates disaster image classification datasets from various sources and across different tasks. Baseline results using different CNN models are also provided.'
-date: 2020
+date: 2020-11-07
 venue: 'ASONAM'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 citation: 'F. Alam, F. Ofli, M. Imran,T. Alam, and U. Qazi, “Social Media Image Classification Benchmarks for Various Disaster Response Tasks,” in 2020 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM). IEEE, 2020'
