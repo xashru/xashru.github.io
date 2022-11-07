@@ -8,15 +8,15 @@ redirect_from:
   - /about.html
 ---
 Hi! 
-I am Tanvir. Currently I am working as a Principal Software Engineer at BJIT Limited, Dhaka, Bangladesh. My projects typically involve applied deep learning on Computer Vision and Natural Language Processing. Previously I worked as a deep learning researcher at Semion Limited. I graduated from Bangladesh University of Engineering and Technology (BUET) at 2016. My love for programming grew from participating in contests like Google Code Jam, TopCoder and developing video games.
+I am Tanvir. Currently I am currently a PhD student in Computing and Infomation Science at RIT. I am currently researching on the intersection of Deep Learning, NLP and Cybersecurity.
 
 ## Research Interests
 My primary research interests are in
-- Computer Vision 
 - Natural Language Processing
+- Computer Vision 
 - Unsupervised and self-supervised learning
 - Multimodal representation learning
-- Explainable deep learning
+- Explainable machine learning
 - Reinforcement learning
 
 <!--
