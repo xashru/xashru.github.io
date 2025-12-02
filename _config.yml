@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Md Tanvirul Alam"
-  avatar           : "profile.png"
+  avatar           :
   bio              : "PhD Student, RIT"
   location         : "Rochester, NY"
   employer         :
