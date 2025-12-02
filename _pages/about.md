@@ -8,16 +8,16 @@ redirect_from:
   - /about.html
 ---
 Hi! 
-I am Tanvir. Currently I am currently a PhD student in Computing and Infomation Science at RIT. I am currently researching on the intersection of Deep Learning, NLP and Cybersecurity.
+I am Tanvir. I am a PhD candidate in Computing and Information Science at Rochester Institute of Technology, where I work on reasoning in large language models, reinforcement learning with verifiable rewards, and cybersecurity applications, including cyber threat intelligence.
 
 ## Research Interests
 My primary research interests are in
-- Natural Language Processing
-- Computer Vision 
-- Unsupervised and self-supervised learning
-- Multimodal representation learning
-- Explainable machine learning
-- Reinforcement learning
+- Reasoning in Large Language Models
+- Reinforcement Learning with Verifiable Rewards (RLVR)
+- Multimodal(Vision–Language) Learning and Evaluation
+- Cyber Threat Intelligence and Security
+- Explainable and Trustworthy AI
+- Out-of-dsitribution robustness
 
 <!--
 ## Things I like
